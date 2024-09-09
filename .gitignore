@@ -43,3 +43,6 @@ qemu-arm-static
 
 # Temporary output dir for artifacts
 mvn-artifacts
+
+
+clipboard.txt
